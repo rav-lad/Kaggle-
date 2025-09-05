@@ -1,0 +1,57 @@
+# Datasets courants (Kaggle, ML, etc.)
+*.csv
+*.tsv
+*.json
+*.xml
+*.yaml
+*.yml
+*.xlsx
+*.xls
+*.ods
+*.parquet
+*.feather
+*.arrow
+*.h5
+*.hdf5
+*.mat
+*.sav
+*.dta
+*.sas7bdat
+*.xpt
+*.rda
+*.rds
+
+# Archives souvent utilisées pour distribuer des datasets
+*.zip
+*.gz
+*.tar
+*.tar.gz
+*.tgz
+*.bz2
+*.7z
+
+# Formats image/audio/vidéo (datasets multimodaux Kaggle)
+*.jpg
+*.jpeg
+*.png
+*.bmp
+*.gif
+*.tif
+*.tiff
+*.webp
+*.svg
+*.ico
+*.mp3
+*.wav
+*.flac
+*.ogg
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.webm
+
+# Gros fichiers texte (dump, NLP)
+*.txt
+*.ndjson
+*.log
