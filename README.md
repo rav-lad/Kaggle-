@@ -1,7 +1,5 @@
 # Kaggle
 
-Got it. Here’s a clean English version of the `README.md`:
-
 # 🏆 Kaggle Competitions
 
 This repository contains my projects and notebooks related to various Kaggle competitions.  
